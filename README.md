@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Totoch47
 - 👀 I’m interested in Game Dev & Soft Dev
-- 🌱 I’m currently learning C# and Unity Software
+- 🌱 I’m currently learning C#, Py & Unity Software
 - 💞️ I’m looking to collaborate on my project Pokémon 3DX on Unity
 - 📫 How to reach me ...
 
